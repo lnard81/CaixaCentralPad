@@ -1,0 +1,24 @@
+pasta "data"
+----------------------------------------------------------------------------- 
+esta pasta destina-se a colocar as fontes de dados a serem usadas no projeto.
+
+
+pasta "models"
+----------------------------------------------------------------------------- 
+esta pasta destina-se a colocar o arquivo binário no modelo gerado no projeto.
+
+
+pasta "notebooks"
+----------------------------------------------------------------------------- 
+esta pasta destina-se a colocar os notebooks usados no projeto.
+
+
+pasta "reports"
+----------------------------------------------------------------------------- 
+esta pasta destina-se a colocar todos os relatórios gerados a partir
+dos estudos e análises do projeto, todo o aprendizado.
+
+
+pasta "scr"
+----------------------------------------------------------------------------- 
+esta pasta destina-se a colocar todos os códigos de apoio usados no projeto.
